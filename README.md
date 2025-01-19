@@ -7,8 +7,9 @@
 
 ![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshk103&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshk103&repo=github-study_material)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshk103&repo=study_material)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshk103&repo=Duo-Studio-Clone)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshk103&repo=InternIt-Internship_Scrapper_BruteForce_Innovanza23)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **deveshk103/deveshk103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
